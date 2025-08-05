@@ -1,4 +1,4 @@
-import "./projectCard.css"
+import "./ProjectCard.css"
 import zayakaPic from "../assets/zayaka.png"
 import badmintonPic from "../assets/BadmintonScorekeeper.png"
 import taskManagerPic from "../assets/TaskManagerWebApp.png"
