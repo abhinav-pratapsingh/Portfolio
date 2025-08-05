@@ -1,0 +1,10 @@
+.experience__title{
+    font-weight: 900;
+    font-size: large;
+}
+
+.left__align{
+    display: flex;
+    justify-content: flex-start;
+    font-size:1.5rem;
+}

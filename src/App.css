@@ -1,0 +1,21 @@
+button{
+    background-color:  rgb(164, 60, 0);
+    font-size: large;
+    font-weight: 500;
+    border: none;
+    height: 5rem;
+    width: 25rem;
+    border-radius: 5px;
+    box-shadow: 0px 0px 7px 7px rgba(118, 118, 118, 0.1);
+    transition: background-color 0.2s linear;
+    color: white;
+    margin: 0 0;
+
+}
+button:hover{
+    background-color:  rgb(212, 78, 0);
+    cursor: pointer;
+}
+button:active{
+   background-color:  rgb(109, 40, 0);
+}

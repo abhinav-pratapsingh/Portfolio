@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+h1, h2, h3 {
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+
+body, p ,button,a{
+  font-family: 'Inter', sans-serif;
+  color: #cccccc;
+}
+html{
+  font-size: 62.5%;
+  background-color: #FAFAFA;
+}
+body{
+  margin: 0 auto;
+  background: #000000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #181818, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #181818, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
