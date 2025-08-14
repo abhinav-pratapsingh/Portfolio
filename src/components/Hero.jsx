@@ -4,7 +4,7 @@ import "../components/Hero.css"
 
 const Hero = ()=>{
     const handleClick = ()=>{
-        window.open(resume,'_blank');
+        window.open(resume,'_blank')
     }
     return(
         <div className="hero__section">
